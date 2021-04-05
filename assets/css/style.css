@@ -1165,7 +1165,7 @@ section {
 }
 
 .contact .php-email-form input:focus, .contact .php-email-form textarea:focus {
-  border-color: #00c1c1;
+  border-color: #004dc1;
 }
 
 .contact .php-email-form input {
@@ -1177,7 +1177,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"] {
-  background: #00c1c1;
+  background: #004dc1;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -1186,7 +1186,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-  background: darkem(#00c1c1, 5);
+  background: darkem(#004dc11, 5);
 }
 
 @-webkit-keyframes animate-loading {
